@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904711241165",
+    "project_id": "belajar-arduino-96745",
+    "storage_bucket": "belajar-arduino-96745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904711241165:android:95f51bbbebb285cc29d884",
+        "android_client_info": {
+          "package_name": "com.example.belajararduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904711241165-3ju1kucoj331t1fjd1k7bo87jnvsrakt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.belajararduino",
+            "certificate_hash": "db599bf6c96523dc37bc6cc0714f6208b5a1c38d"
+          }
+        },
+        {
+          "client_id": "904711241165-qq8c1cqp8n6trgq6ctla62qjhugecieu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPr8EHyxTymUOR1zn2_EEoCGoAblMaQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904711241165-qq8c1cqp8n6trgq6ctla62qjhugecieu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
